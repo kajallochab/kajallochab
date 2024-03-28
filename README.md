@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=0e75b6&style=flat" alt="kajallochab" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<center>
 ![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxMWh3ZmVkejVnaWx3aTBzZmVjNXJxZXd4cHl5ZnJscHEzcWh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0y1iydyiKWCQ/giphy.gif)
+</center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
