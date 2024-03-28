@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=0e75b6&style=flat" alt="kajallochab" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://giphy.com/embed/k0y1iydyiKWCQ" width="40" height="40" />
-
-![Example GIF](https://giphy.com/embed/k0y1iydyiKWCQ)
+<img src="https://giphy.com/gifs/cute-agnes-churros-k0y1iydyiKWCQ" width="40" height="40" />
 
 
 <h3 align="left">Connect with me:</h3>
