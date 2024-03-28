@@ -7,7 +7,7 @@
 <iframe src="https://giphy.com/embed/k0y1iydyiKWCQ" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><a href="https://giphy.com/gifs/cute-agnes-churros-k0y1iydyiKWCQ">via GIPHY</a></p>
 
-![Example GIF]([https://example.com/path/to/your/gif.gif](https://giphy.com/gifs/cute-agnes-churros-k0y1iydyiKWCQ))
+![Example GIF](https://giphy.com/embed/k0y1iydyiKWCQ)
 
 
 <h3 align="left">Connect with me:</h3>
