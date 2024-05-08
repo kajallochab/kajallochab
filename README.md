@@ -1,6 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Kajal!</h1>
-# <h3 align="center">An aspiring Software Engineer</h3>
-
+![banner (1)](https://user-images.githubusercontent.com/63795826/229116832-28a8ba4d-27ee-458e-aa13-4391fd2efa19.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=0e75b6&style=flat" alt="kajallochab" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -32,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/kajallochab">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaAI&theme=radical&border=7F3FBF&background=0D1117" alt="Kajal's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajallochab&theme=radical&border=7F3FBF&background=0D1117" alt="Kajal's GitHub streak"/>
   </a>
 </p>
 
@@ -44,7 +42,7 @@
 
 <a> 
     <a href="https://github.com/kajallochab"><img alt="Kajal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kajallochab&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/kajallochab"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kajallochab&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/kajallochab"><img alt="Kajal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kajallochab&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
