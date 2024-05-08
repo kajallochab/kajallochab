@@ -4,20 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxMWh3ZmVkejVnaWx3aTBzZmVjNXJxZXd4cHl5ZnJscHEzcWh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0y1iydyiKWCQ/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=0e75b6&style=flat" alt="Kajal" /> </p>
-
 - 👨‍💻 Data Science Club, Nirma University, President
 
 - ⚡ Google Devlopers Student Club, Nirma University Lead
   
 - 👩‍💻 TalentSprint, Google WE Scholar 2022 (Cohort 4)
-
-<center>
-
-![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxMWh3ZmVkejVnaWx3aTBzZmVjNXJxZXd4cHl5ZnJscHEzcWh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0y1iydyiKWCQ/giphy.gif)
-
-</center>
-
 
 
 <h3 align="left">Connect with me:</h3>
