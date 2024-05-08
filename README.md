@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/63795826/229116832-28a8ba4d-27ee-458e-aa13-4391fd2efa19.png)
+![banner (1)](banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=0e75b6&style=flat" alt="kajallochab" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
