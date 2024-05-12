@@ -1,5 +1,5 @@
 ![banner (1)](banner.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=0e75b6&style=flat" alt="kajallochab" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajallochab&label=Profile%20views&color=#f2449b&style=flat" alt="kajallochab" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxMWh3ZmVkejVnaWx3aTBzZmVjNXJxZXd4cHl5ZnJscHEzcWh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0y1iydyiKWCQ/giphy.gif">
