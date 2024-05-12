@@ -42,3 +42,7 @@
 
 
 [![Kajal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kajallochab&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+[![[Kajal's github trophies](https://github-profile-trophy.vercel.app/?username=kajallochab&theme=dracula&no-frame=false&no-bg=true&margin-w=4)]
