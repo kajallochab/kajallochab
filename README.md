@@ -45,4 +45,4 @@
 
 
 
-[![[Kajal's github trophies](https://github-profile-trophy.vercel.app/?username=kajallochab&theme=dracula&no-frame=false&no-bg=true&margin-w=4)]
+![[Kajal's github trophies](https://github-profile-trophy.vercel.app/?username=kajallochab&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
